@@ -1,0 +1,25 @@
+.App {
+	/* text-align: center; */
+	font-family: 'Roboto', sans-serif;
+}
+
+.error {
+	color: red;
+	font-size: 12px;
+	border-top: #ff0000 0.2px solid;
+}
+.frombg {
+	background-color: rgb(239, 245, 245);
+	border: #3a0303 0.2px solid;
+	padding: 5px;
+}
+.Heading {
+	background-color: tomato !important;
+	color: white;
+	font-size: 30px;
+	padding: 10px;
+}
+.submitbtn {
+	background-color: tomato !important;
+	color: white !important;
+}
